@@ -9,6 +9,6 @@ int main(){
     game.play(0, 0);
     game.play(1, 1);
     cout << game << endl;
-    
+    cout << "20" << endl;
     return 0;
 }
