@@ -1,3 +1,7 @@
+UC Merced
+CSE 30 - Data Structures
+Kyrilov
+
 # TicTacJoe
 Project with TicTacJoe
 
