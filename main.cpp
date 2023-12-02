@@ -10,5 +10,6 @@ int main(){
     game.play(1, 1);
     cout << game << endl;
     cout << "20" << endl;
+    cout << "30" << endl;
     return 0;
 }
